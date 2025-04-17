@@ -15,5 +15,3 @@ Simply open the `index.html` file in any web browser — no setup required.
 Built as part of my internship assessment task.
 
 ### *Developed by Punya Shree J*
-# indiassetz-internship-task
-A simple JavaScript based compliment generator built as part of an internship assessment
